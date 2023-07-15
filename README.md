@@ -1,1 +1,1 @@
-![Screenshot](screenshot.png)
+![Screenshot](https://i.ibb.co/WpQQszh/screenshot.png)
