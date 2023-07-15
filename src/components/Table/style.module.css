@@ -1,0 +1,19 @@
+.table {
+    margin: 100px auto;
+    border-bottom: 2px solid black;
+}
+
+.table th, td {
+    width: 150px;
+    padding: 8px 15px;
+    text-align: center;
+}
+
+.table th {
+    background-color: #444;
+    color: white;
+}
+
+.table tr:nth-child(2n) {
+    background-color: #eee;
+}
