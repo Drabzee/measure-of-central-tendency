@@ -41,6 +41,7 @@ const calculateMode =  (arr: number[]) => {
         }
     }
 
+    // If all elements have occured only once, there is no mode, hence returned -1
     return mode.length === arr.length ? [-1] : mode;
 }
 
